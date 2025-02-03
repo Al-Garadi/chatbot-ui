@@ -1,3 +1,9 @@
+cd C:\Users\Haith\CascadeProjects\chatbot-ui
+supabase startcd C:\Users\Haith\CascadeProjects\chatbot-ui
+supabase start# Configuration file for Supabase CLI.  See https://supabase.com/docs/reference/cli for details.
+
+# The name of your Supabase project.  This is used to generate unique names for resources.
+project_name = "chatbot-ui"
 # A string used to distinguish different Supabase projects on the same host. Defaults to the
 # working directory name when running `supabase init`.
 project_id = "chatbotui"
